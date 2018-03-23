@@ -53,3 +53,4 @@ app.get('/:id', function(request, response) {
 })
 
 app.listen(3000)
+console.log('listening on port: 3000')
