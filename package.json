@@ -1,0 +1,22 @@
+{
+  "name": "server-drills",
+  "version": "1.0.0",
+  "description": "\"server drills version-1\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "(test)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soundmedicine/server-drills.git"
+  },
+  "keywords": [
+    "client-server"
+  ],
+  "author": "Roberto Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soundmedicine/server-drills/issues"
+  },
+  "homepage": "https://github.com/soundmedicine/server-drills#readme"
+}
